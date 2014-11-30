@@ -1,4 +1,4 @@
 linia 1
-linia 2
-linia 3
-linia 4
+linia 2nie mam nogi
+i reki
+i drugiej nogi
